@@ -1,5 +1,5 @@
 # Shayna Bhasin— Developer Portfolio
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-2030
+> B.Tech CSE Student | | Batch 2026-2030
 ---
 ## Repository Index
 | Repository | Description | Tech Stack | Status |
