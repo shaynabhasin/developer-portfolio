@@ -1,4 +1,4 @@
-# K.R. Mangalam University
+
 ## B.Tech CSE – Six Semester Learning Roadmap
 
 My goal is to develop strong programming skills, build practical projects, and prepare for internships and placements.
