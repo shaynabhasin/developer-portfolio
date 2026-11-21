@@ -1,5 +1,5 @@
-# [Your Full Name] — Developer Portfolio
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+# Shayna Bhasin— Developer Portfolio
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-2030
 ---
 ## Repository Index
 | Repository | Description | Tech Stack | Status |
